@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "996564651595",
+    "project_id": "cargo-azerbaijan-22853",
+    "storage_bucket": "cargo-azerbaijan-22853.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996564651595:android:7103c99f465d494e7b07ce",
+        "android_client_info": {
+          "package_name": "com.example.email_password_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996564651595-2a7n701i2ma3njfla0tc1gr00et7it8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGkD0kNa_-WnnW3GegXYJN0-6NswKbPUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996564651595-2a7n701i2ma3njfla0tc1gr00et7it8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
